@@ -1,17 +1,17 @@
-# aula 01 - Operações matemáticas
-# operações essenciais da matemática
+# aula 01 - OperaÃ§Ãµes matemÃ¡ticas
+# operaÃ§Ãµes essenciais da matemÃ¡tica
 
-# adição
+# adiÃ§Ã£o
 4+4
-# subtração
+# subtraÃ§Ã£o
 4-4
-# multiplicação
+# multiplicaÃ§Ã£o
 4*4
-# divisão
+# divisÃ£o
 4/4
 # resto
 4%%4
-#exponenciação
+#exponenciaÃ§Ã£o
 4^4 # ou 4**4
-# ordem parênteses
+# ordem parÃªnteses
 4*(4-4)
